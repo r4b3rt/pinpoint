@@ -7,12 +7,12 @@
 
 **Visit [our official web site](https://pinpoint-apm.github.io/pinpoint/) for more information and [Latest updates on Pinpoint](https://pinpoint-apm.github.io/pinpoint/news.html)**.
 
-## Latest Release (2021/03/05)
+## Latest Release (2021/07/22)
 
-We're happy to announce the release of Pinpoint v2.2.2.
-Please check the release note at (https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.2).
+We're happy to announce the release of Pinpoint v2.3.0.
+Please check the release note at (https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.3.0).
 
-The current stable version is [v2.2.2](https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.2).
+The current stable version is [v2.3.0](https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.3.0).
 
 ## Live Demo
 
@@ -95,7 +95,7 @@ Pinpoint Version | HBase 1.0.x | HBase 1.2.x | HBase 1.4.x | HBase 2.0.x
 2.0.x | not tested | yes | yes | [optional](https://pinpoint-apm.github.io/pinpoint/hbaseupgrade.html#do-you-like-to-use-hbase-2x-for-pinpoint)
 2.1.x | not tested | yes | yes | [optional](https://pinpoint-apm.github.io/pinpoint/hbaseupgrade.html#do-you-like-to-use-hbase-2x-for-pinpoint)
 2.2.x | not tested | yes | yes | [optional](https://pinpoint-apm.github.io/pinpoint/hbaseupgrade.html#do-you-like-to-use-hbase-2x-for-pinpoint)
-2.3.x | not tested | yes | yes | [optional](https://pinpoint-apm.github.io/pinpoint/hbaseupgrade.html#do-you-like-to-use-hbase-2x-for-pinpoint)
+2.3.x | not tested | yes | yes | [hbase2-module](https://github.com/pinpoint-apm/pinpoint/tree/master/hbase2-module)
 
 Agent - Collector compatibility table:
 
